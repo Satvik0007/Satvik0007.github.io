@@ -1,9 +1,9 @@
 #  My First Few Web Development Experiments
 
 ###  Context
-This repository contains the very first lines of HTML and CSS I ever wrote. 
+This repository contains the very first lines of HTML,CSS and JS  I ever wrote. 
 
-While these pages are rudimentary and simplistic compared to my current skill set, I have chosen to keep this repository public as a **"Time Capsule."** It serves as a benchmark to demonstrate my growth as a developer.
+While these pages are rudimentary and simplistic compared to my current skill set, I have chosen to keep this repository public as a **Time Capsule** It serves as a benchmark to demonstrate my growth as a developer.
 
 ###  What I Learned Here
 At the time of creating this, I was learning the absolute basics:
